@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+.marketing
+
+
+.marketing {
+    background-color: white;
+    padding: 50px 150px;
+    text-align: center;
+}
+.marketing h3 {
+    font-size: 35px;
+    color: rgb(24, 23, 23)
+}
+
+
+.intro {
+    color: #717171;
+    width:55% ;
+    margin:10px auto ;
+}
+
+
+.cards {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 30px;
+    margin-top: 20px;
+}
+
+.card {
+    border-radius: 10px;
+    height: 300px;
+    position: relative;
+}
+
+.card {
+    height: 100%;
+    width: 100%;
+}
+.details {
+    
+    color: #717171;
+    padding: 15px;
+    border-radius: 7px;
+    width: 90%;
+    position: absolute;
+}
