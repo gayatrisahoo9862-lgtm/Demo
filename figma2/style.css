@@ -106,7 +106,7 @@ body {
 .hero-image {
   width: 480px;
   height: 320px;
-  background-color: #CDE4FF;
+  background-color: #dce0e4;
   border-radius: 8px;
 }
 * {
@@ -208,7 +208,7 @@ body {
 .price-card {
   width: 300px;
   padding: 40px 30px;
-  border: 2px solid #f5c97a;
+  border: 2px solid #a99268;
   border-radius: 12px;
   transition: 0.5s;
 }
@@ -220,12 +220,12 @@ body {
 
 .price-card.active {
   background: #0b3a6f;
-  color: #fff;
+  color: #827575;
   transform: translateY(-15px);
   border-radius: 10px;
 }
 
-.price-card ul {
+.price-card ul {      
   list-style: none;
   text-align: left;
   margin: 20px 0;
@@ -237,14 +237,14 @@ body {
 
 .price-card button {
   padding: 12px 25px;
-  border: 1px solid #f5c97a;
+  border: 1px solid #b5a891;
   background: transparent;
   border-radius: 6px;
   cursor: pointer;
 }
 
 .price-card.active button {
-  background: #4da3ff;
+  background: #080f16;
   color: #fff;
   border: none;
 }

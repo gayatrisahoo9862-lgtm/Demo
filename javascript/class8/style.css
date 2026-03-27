@@ -1,0 +1,17 @@
+body {
+    
+}
+
+
+
+
+
+
+header {
+    position: sticky;
+    top: 0;
+    background-color: #0a0a0a;
+    color: #fff;
+    padding: 15px 0;
+
+}
